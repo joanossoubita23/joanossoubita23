@@ -14,7 +14,7 @@
 - 🤝 I’m looking to help with **Any Cloud & DevOps projetcs**:
   Feel free to explore and contribute to these projects, as they reflects not only the best practices in Cloud & DevOps but also the culmination of years of practical experience in the ever-evolving landscape of cloud   computing.   Your feedback and contributions are highly valued as we collectively strive for excellence in multi-cloud DevOps.
 
-- 👨‍💻 All of my projects are available at [www.github.com/mariusforreal](www.github.com/mariusforreal)
+- 👨‍💻 All of my projects are available at [www.github.com/mariusforreal](www.github.com/joanossoubita23)
 
 - 💬 Ask me about **AWS, GCP. AZURE**
 
